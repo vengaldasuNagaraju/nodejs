@@ -1,0 +1,14 @@
+{
+  "name": "nagaraju",
+  "version": "1.0.0",
+  "main": "first.js",
+  "scripts": {
+    "start": "node first.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "upper-case": "^2.0.2"
+  }
+}

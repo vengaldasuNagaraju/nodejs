@@ -1,0 +1,15 @@
+{
+    "name" : "coder-pokedex",
+    "version" : "1.0.0",
+    "main":"first.js",
+    "scripts": {
+        "test": "hello "
+    },
+    "bin": {
+        "coder-pokedex":"first.js"
+    },
+    "keywords": [],
+    "author": "",
+    "license":"ISC",
+    "description": ""
+}
